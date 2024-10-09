@@ -1,6 +1,6 @@
 # 👋🏻 Hello, I'm Pat!
 
-I'm a product/program manager with a deep love for computer programming. My journey began back in the mid-90's when I discovered a dusty old computer with QBasic in my parent's garage. Since then, I've been hooked. Here, you'll find a mix of personal projects, experiments, and musings that reflect my curiosity about all things tech.
+I'm a product/program manager with a deep love for computer programming. My journey began back in the mid-90's when I discovered a dusty old computer with Microsoft QBasic in my parent's garage. Since then, I've been hooked. Here, you'll find a mix of personal projects, experiments, and musings that reflect my curiosity about all things tech.
 
 ## 🌟 About Me
 
