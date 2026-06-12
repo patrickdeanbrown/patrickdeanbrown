@@ -1,39 +1,40 @@
-# Hello, I'm Pat!
+# Pat Brown
 
-I'm a product/program manager with a deep love for computer programming. My journey began back in the mid-90's when I discovered a dusty old computer with Microsoft QBasic in my parent's garage. Since then, I've been hooked. Here, you'll find a mix of personal projects, experiments, and musings that reflect my curiosity about all things tech.
+I'm a product-minded developer in Los Angeles, building practical software across Swift, Python, and AI-assisted workflows.
 
-## About Me
+My work tends to sit at the intersection of product thinking and hands-on engineering: small tools with clear use cases, iOS apps that respect the user's device, and experiments that turn emerging AI capabilities into maintainable software instead of one-off demos.
 
-I'm passionate about computer science, programming languages, computer history, and leveraging AI workflows to build better applications.
+## Current Focus
 
-## What You'll Find Here
+- SwiftUI and SwiftData apps with clean, local-first user experiences
+- Python CLIs and packaging for research, accessibility, and automation workflows
+- AI-assisted development practices that keep product intent, architecture, and tests visible
+- Local models, text-to-speech pipelines, and practical accessibility tooling
 
-- **📱 iOS Development**: SwiftUI and app development adventures, focusing on clean design, privacy, and a seamless user experience.
-- **💻 Programming Fun**: Python scripts, AI experiments, and other coding explorations.
+## Selected Work
 
-## What I'm Learning
+**[wikibee](https://github.com/patrickdeanbrown/wikibee)**  
+A Python CLI that extracts Wikipedia articles into clean Markdown, TTS-ready text, and audio-oriented outputs. Built with documentation, CI, type checking, and packaging discipline.
 
-I'm always looking to expand my skill set. Recently, I've been diving into:
+**[PungentRoots](https://github.com/patrickdeanbrown/PungentRoots)**  
+A SwiftUI iOS app that screens ingredient labels for pungent-root ingredients on device. It uses VisionKit where available, falls back to a legacy capture path when needed, and keeps detection local and rule-based.
 
-- AI-driven software development from start to finish.
-- Running and tweaking local LLaMAs.
-- SwiftData and SwiftUI for cutting-edge app development.
-- New ways to blend product management with hands-on coding.
+**[FoodSaver](https://github.com/patrickdeanbrown/FoodSaver)**  
+A SwiftUI and SwiftData app for tracking household food inventory and reducing spoilage. The project explores product-spec-driven development and how clear product intent can improve AI-assisted coding workflows.
 
-## What I'm Reading
+**[ChatGPT_CLI](https://github.com/patrickdeanbrown/ChatGPT_CLI)**  
+A cross-platform C++ terminal client for working with the ChatGPT API, including command-oriented interaction, history management, and file-based input/output.
 
-[*Prompt Engineering for Generative AI*](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/)
+## Tools And Interests
 
-## What I've Read (Senior Superlatives)
+Swift, SwiftUI, SwiftData, VisionKit, Python, C++, command-line tools, local-first apps, text-to-speech, accessibility, AI development workflows, and the history of programming languages.
 
-- **Most Classic**: [*The C Programming Language*](https://en.wikipedia.org/wiki/The_C_Programming_Language)
-- **Most Esoteric**: [*The AWK Programming Language*](https://en.wikipedia.org/wiki/The_AWK_Programming_Language)
-- **Most Parens**: [*Structure and Interpretation of Computer Programs (SICP)*](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
-- **Least Generic**: [*From Mathematics to Generic Programming*](http://stepanovpapers.com)
-- **Most Thrilling**: [*Best Dog Hikes in Southern California*](https://www.amazon.com/Best-Dog-Hikes-Southern-California-ebook/dp/B01M0DXSFS)
+## Reading And Learning
 
-## 📝 Let's Connect!
+Recently: [*Prompt Engineering for Generative AI*](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/)
 
-I'm always open to connecting, whether it's to collaborate on a project or share ideas. Please feel free to reach out!
+Long-running favorites include [*The C Programming Language*](https://en.wikipedia.org/wiki/The_C_Programming_Language), [*The AWK Programming Language*](https://en.wikipedia.org/wiki/The_AWK_Programming_Language), [*Structure and Interpretation of Computer Programs*](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html), and [*From Mathematics to Generic Programming*](http://stepanovpapers.com).
 
-**Email**: patrickbrown [at] alumni [dot] nd [dot] edu
+## Contact
+
+I am open to thoughtful collaboration around developer tools, Swift apps, AI-assisted product workflows, and accessibility-focused software.
